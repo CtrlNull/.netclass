@@ -1,0 +1,40 @@
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.exe.config
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.exe
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.pdb
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.xml
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.EnglishWindow.resources
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.Form1.resources
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.Resources.resources
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.SpanishWindow.resources
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.vbproj.GenerateResource.Cache
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.exe
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.xml
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.pdb
+C:\Users\Raphael\AppData\Local\Temporary Projects\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.noMatter.resources
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.exe.config
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.exe
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.xml
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.pdb
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.exe
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.pdb
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.xml
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.EnglishWindow.resources
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.Form1.resources
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.Resources.resources
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.noMatter.resources
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.SpanishWindow.resources
+C:\Users\Raphael\OneDrive\Documents\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.vbproj.GenerateResource.Cache
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.exe.config
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.exe
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.xml
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.pdb
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.exe
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.pdb
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\bin\Debug\Raphael_Fonseca_ProgramOne.xml
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.vbprojResolveAssemblyReference.cache
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.EnglishWindow.resources
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.MainForm.resources
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.Resources.resources
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.noMatter.resources
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.SpanishWindow.resources
+\\Ctrl_null-pc\d\College Classes\Software Engineering\POS-408\Week 1\Projects\FonsecaW1P1\Raphael_Fonseca_ProgramOne\Raphael_Fonseca_ProgramOne\obj\Debug\Raphael_Fonseca_ProgramOne.vbproj.GenerateResource.Cache
